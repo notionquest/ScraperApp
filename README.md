@@ -12,6 +12,9 @@
 #####To execute the Scraper App:
 
     java -jar target/ScraperApp-jar-with-dependencies.jar
+
+#####Unit Test Result:
+![Image of Unit Test Result](https://github.com/notionquest/ProjectDocumentation/blob/master/Images/ScraperApp_UnitTests.JPG)
     
 #####Sample Output:
 ```json
